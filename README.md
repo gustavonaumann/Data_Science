@@ -16,5 +16,5 @@ Formado em Física - Bacharelado pela UFRJ, com interesse nas áreas de tecnolog
 * [LinkedIn](www.linkedin.com/in/gustavo-naumann-de-lucena-2782a3224)
 
 ## Projetos:
-* **  projeto 1**:
+* **Analisando os dados do Airbnb de Milão**: https://bit.ly/3APlZVz
 ---
