@@ -5,11 +5,11 @@
 </p>
 
 # Gustavo Naumann
-<sub>Físico e estudante de Ciência de Dados e do ensino de física</sub>
+<sub>Físico e estudante de Ciência de Dados e do Ensino de Física</sub>
 
 Formado em Física - Bacharelado pela UFRJ, com interesse nas áreas de tecnologia, principalmente programação com Python, e no ensino de física, tendo sido bolsista em ambas áreas em 2022 e 2023.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background:** Python, Machine Learning, Física, Ensino de Física.
 
 **Contato:**
 * E-mail: gustavo.naumann@ufrj.br
