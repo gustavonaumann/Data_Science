@@ -17,4 +17,5 @@ Formado em Física - Bacharelado pela UFRJ, com interesse nas áreas de tecnolog
 
 ## Projetos:
 * **Analisando os dados do Airbnb de Milão**: https://bit.ly/3APlZVz
+* **Panorama da COVID-19 em 2024**: https://bit.ly/47rycfo
 ---
